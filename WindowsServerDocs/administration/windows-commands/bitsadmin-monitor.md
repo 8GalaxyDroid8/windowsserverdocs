@@ -45,7 +45,7 @@ Use CTRL+C to stop the refresh.
 
 The following example monitors the transfer queue for jobs owned by the current user and refreshes the information every 60 seconds.
 ```
-C:\>bitsadmin /Monitor /refesh 60
+C:\>bitsadmin /Monitor /refresh 60
 ```
 
 #### Additional references
